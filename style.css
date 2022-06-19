@@ -1,0 +1,13 @@
+/* *{ 
+  border: solid 1px black;
+/* } */
+html,body{
+  background-image: url(https://yuhsuan1223.github.io/myweb/5.jpg)
+}
+.navbar-nav{ 
+  margin-left:200px;
+  background-color:#F4CEDE;
+} 
+.container{
+  padding-top:80px;
+}
